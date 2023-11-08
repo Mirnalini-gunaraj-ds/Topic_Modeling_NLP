@@ -1,5 +1,7 @@
 # Topic Modeling of Bank Customer Feedback Data
 
+<img src="https://www.callcentrehelper.com/images/stories/2018/06/feedback-mindmap-760.jpg" style="float: left;" width="500" height="100" />
+
 ## Introduction
 This project focuses on analyzing customer feedback data obtained from a bank to uncover hidden topics and gain insights into customer sentiments and concerns. The primary goal is to identify common themes within the feedback to help the bank make data-driven decisions for improving its services and customer satisfaction.
 
